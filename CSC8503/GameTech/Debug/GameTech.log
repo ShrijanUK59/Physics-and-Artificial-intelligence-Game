@@ -1,0 +1,63 @@
+﻿  GameTechRenderer.cpp
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(46,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+  Main.cpp
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(46,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\ThisSpring.h(9,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\CubeObject.h(9,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\CubeObject.h(10,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PlayerObject.h(10,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PlayerObject.h(11,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PlayerObject.h(35,12): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PlayerObject.h(60,1): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\GrabPower.h(13,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\SphereObject.h(9,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\SphereObject.h(10,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\EnemyObject.h(10,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\EnemyObject.h(11,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\CapsuleObject.h(9,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\CapsuleObject.h(10,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\GameTech\TutorialGame.h(50,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\GameTech\Main.cpp(22,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TutorialGame.cpp
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(46,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\ThisSpring.h(9,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\CubeObject.h(9,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\CubeObject.h(10,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PlayerObject.h(10,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PlayerObject.h(11,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PlayerObject.h(35,12): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PlayerObject.h(60,1): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\GrabPower.h(13,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\SphereObject.h(9,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\SphereObject.h(10,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\EnemyObject.h(10,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\EnemyObject.h(11,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\CapsuleObject.h(9,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\CapsuleObject.h(10,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\GameTech\TutorialGame.h(50,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\GameTech\TutorialGame.cpp(9,31): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\GameTech\TutorialGame.cpp(113,67): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\GameTech\TutorialGame.cpp(115,67): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\GameTech\TutorialGame.cpp(116,67): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\GameTech\TutorialGame.cpp(117,67): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\GameTech\TutorialGame.cpp(120,67): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\GameTech\TutorialGame.cpp(122,67): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\GameTech\TutorialGame.cpp(126,67): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\GameTech\TutorialGame.cpp(130,67): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\GameTech\TutorialGame.cpp(133,67): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\GameTech\TutorialGame.cpp(494,82): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\GameTech\TutorialGame.cpp(542,84): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\GameTech\TutorialGame.cpp(608,108): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\GameTech\TutorialGame.cpp(643,108): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\GameTech\TutorialGame.cpp(669,51): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\GameTech\TutorialGame.cpp(672,21): warning C4018: '<': signed/unsigned mismatch
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\GameTech\TutorialGame.cpp(675,52): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\GameTech\TutorialGame.cpp(787,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\GameTech\TutorialGame.cpp(888,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\GameTech\TutorialGame.cpp(903,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  LINK : F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\Win32\Debug\GameTech.exe not found or not built by the last incremental link; performing full link
+  GameTech.vcxproj -> F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\Win32\Debug\GameTech.exe

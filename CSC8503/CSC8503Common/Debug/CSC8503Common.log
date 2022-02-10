@@ -1,0 +1,65 @@
+﻿  BehaviourTreeEnemy.cpp
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\BehaviourTreeEnemy.cpp(10,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\BehaviourTreeEnemy.cpp(47,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  CollisionDetection.cpp
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(46,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+  EnemyStateGameObject.cpp
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\EnemyStateGameObject.cpp(8,18): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\EnemyStateGameObject.cpp(9,16): warning C4305: '=': truncation from 'double' to 'float'
+  GameObject.cpp
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(46,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+  GameWorld.cpp
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(46,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PlayerObject.h(10,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PlayerObject.h(11,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PlayerObject.h(35,12): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PlayerObject.h(60,1): warning C4305: 'argument': truncation from 'double' to 'float'
+  PathfindingEnemyStateGameObject.cpp
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PlayerObject.h(10,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PlayerObject.h(11,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PlayerObject.h(35,12): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PlayerObject.h(60,1): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PathfindingEnemyStateGameObject.cpp(62,20): warning C4018: '<': signed/unsigned mismatch
+  PatrolEnemyStateGameObject.cpp
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PatrolEnemyStateGameObject.cpp(79,20): warning C4018: '<': signed/unsigned mismatch
+  PhysicsObject.cpp
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(46,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\ThisSpring.h(9,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\CubeObject.h(9,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\CubeObject.h(10,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PlayerObject.h(10,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PlayerObject.h(11,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PlayerObject.h(35,12): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PlayerObject.h(60,1): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\GrabPower.h(13,1): warning C4305: '=': truncation from 'double' to 'float'
+  PhysicsSystem.cpp
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(46,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\ThisSpring.h(9,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\CubeObject.h(9,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\CubeObject.h(10,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PlayerObject.h(10,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PlayerObject.h(11,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PlayerObject.h(35,12): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PlayerObject.h(60,1): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\GrabPower.h(13,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PhysicsSystem.cpp(14,21): warning C4305: '=': truncation from 'double' to 'float'
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PhysicsSystem.cpp(250,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  PlatformStateGameObject.cpp
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PlatformStateGameObject.cpp(19,17): warning C4553: '==': result of expression not used; did you intend '='?
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PlatformStateGameObject.cpp(26,17): warning C4553: '==': result of expression not used; did you intend '='?
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PlatformStateGameObject.cpp(38,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PlatformStateGameObject.cpp(40,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PlatformStateGameObject.cpp(44,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PlatformStateGameObject.cpp(46,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PlatformStateGameObject.cpp(50,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\CSC8503\CSC8503Common\PlatformStateGameObject.cpp(52,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  PositionConstraint.cpp
+  RenderObject.cpp
+  StateGameObject.cpp
+  Generating Code...
+  CSC8503Common.vcxproj -> F:\1 A CSC8503 Advanced Game Technologies Coursework\8503 Release  2021\Win32\Debug\CSC8503Common.lib

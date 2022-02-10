@@ -1,0 +1,56 @@
+﻿  GameTechRenderer.cpp
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\CSC8503Common\GameWorld.h(54,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\CSC8503Common\GameWorld.h(54,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\CSC8503Common\CubeObject.h(10,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\CSC8503Common\PlayerBall.h(10,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\CSC8503Common\PlayerBall.h(11,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\CSC8503Common\PlayerBall.h(35,12): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\CSC8503Common\PlayerBall.h(60,1): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\CSC8503Common\GrabPower.h(13,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\CSC8503Common\PhysicsSystem.h(76,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\CSC8503Common\SphereObject.h(9,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\CSC8503Common\SphereObject.h(10,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\CSC8503Common\EnemyObject.h(10,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\CSC8503Common\EnemyObject.h(11,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\CSC8503Common\CapsuleObject.h(9,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\CSC8503Common\CapsuleObject.h(10,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\GameTech\TutorialGame.h(48,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\GameTech\Main.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TutorialGame.cpp
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\CSC8503Common\GameWorld.h(54,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\CSC8503Common\CubeObject.h(10,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\CSC8503Common\PlayerBall.h(10,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\CSC8503Common\PlayerBall.h(11,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\CSC8503Common\PlayerBall.h(35,12): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\CSC8503Common\PlayerBall.h(60,1): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\CSC8503Common\GrabPower.h(13,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\CSC8503Common\PhysicsSystem.h(76,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\CSC8503Common\SphereObject.h(9,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\CSC8503Common\SphereObject.h(10,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\CSC8503Common\EnemyObject.h(10,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\CSC8503Common\EnemyObject.h(11,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\CSC8503Common\CapsuleObject.h(9,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\CSC8503Common\CapsuleObject.h(10,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\GameTech\TutorialGame.h(48,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\GameTech\TutorialGame.cpp(9,31): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\GameTech\TutorialGame.cpp(108,67): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\GameTech\TutorialGame.cpp(110,67): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\GameTech\TutorialGame.cpp(111,67): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\GameTech\TutorialGame.cpp(112,67): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\GameTech\TutorialGame.cpp(115,67): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\GameTech\TutorialGame.cpp(117,67): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\GameTech\TutorialGame.cpp(121,67): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\GameTech\TutorialGame.cpp(125,67): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\GameTech\TutorialGame.cpp(128,67): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\GameTech\TutorialGame.cpp(465,82): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\GameTech\TutorialGame.cpp(490,84): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\GameTech\TutorialGame.cpp(538,108): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\GameTech\TutorialGame.cpp(572,108): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\GameTech\TutorialGame.cpp(598,51): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\GameTech\TutorialGame.cpp(604,52): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\GameTech\TutorialGame.cpp(720,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\GameTech\TutorialGame.cpp(814,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\CSC8503\GameTech\TutorialGame.cpp(828,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  GameTech.vcxproj -> E:\Physics and Artificial intelligence Game\Physics and Artificial intelligence Game\x64\Debug\GameTech.exe
